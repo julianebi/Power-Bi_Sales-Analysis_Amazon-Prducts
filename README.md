@@ -1,10 +1,10 @@
 # Power-Bi_Sales-Analysis_Amazon-Prducts
 
- Amazon Sales Analysis - Power BI Dashboard
+## Amazon Sales Analysis - Power BI Dashboard
  Overview
 This Power BI dashboard provides a comprehensive analysis of Amazon's sales performance, focusing on sales trends, product categories, and customer reviews. It helps in understanding how sales are distributed over time and which products are performing best.
 
-The dashboard includes:
+##The dashboard includes:
 
 Sales Analysis by Month and Year to track growth trends.
 
@@ -68,7 +68,7 @@ Interact with slicers to analyze specific categories and years.
 
 
 📌 About the Author
-[Your Name] - Data Analyst | Power BI Enthusiast
-🔗 LinkedIn: [Your LinkedIn URL]
-📧 Email: [Your Email]
+Julian Ebinesar - Data Analyst
+🔗 LinkedIn: www.linkedin.com/in/julian-ebinesa
+📧 Email: julianebinesar270@gmail.com
 
