@@ -4,7 +4,7 @@
  Overview
 This Power BI dashboard provides a comprehensive analysis of Amazon's sales performance, focusing on sales trends, product categories, and customer reviews. It helps in understanding how sales are distributed over time and which products are performing best.
 
-##The dashboard includes:
+## The dashboard includes:
 
 Sales Analysis by Month and Year to track growth trends.
 
