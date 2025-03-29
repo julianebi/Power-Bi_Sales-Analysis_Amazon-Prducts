@@ -58,7 +58,6 @@ Power Query for data transformation.
 Excel / CSV datasets as data sources.
 
 ## How to Use
-Clone this repository:
 https://github.com/julianebi/Power-Bi_Sales-Analysis_Amazon-Prduct
 
 Interact with slicers to analyze specific categories and years.
@@ -67,7 +66,7 @@ Interact with slicers to analyze specific categories and years.
   ![image](https://github.com/user-attachments/assets/34af8e10-2cd6-47e6-8673-061671c73f77)
 
 
-📌 About the Author
+## About the Author
 Julian Ebinesar - Data Analyst
 🔗 LinkedIn: www.linkedin.com/in/julian-ebinesa
 📧 Email: julianebinesar270@gmail.com
